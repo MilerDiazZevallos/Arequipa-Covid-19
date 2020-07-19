@@ -1,4 +1,4 @@
-DataScientist
+Arequipa Covid-19
 =============
 
-It´s my first repository.
+Diferentes métricas
