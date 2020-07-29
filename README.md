@@ -7,7 +7,7 @@ Dentro del estúdio podemos apreciar diferentes métricas con dos distintos data
 
 Las métricas utilizadas son:
 
-1. Gráficas generales del estado actual de muestras, contagios, fallecidos y recuperados.
+**1. Gráficas generales del estado actual de muestras, contagios, fallecidos y recuperados.**
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_1.png)
 
@@ -31,7 +31,7 @@ CONCLUSIONES: Este es una de las principales métricas y se ve que la positivida
 
 Actualización(2020-07-28): La positividad empezó a estabilizarse.
 
-2. Factor Rt. Factor de reproducción del virus.
+**2. Factor Rt. Factor de reproducción del virus.**
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_5.png)
 
@@ -39,7 +39,7 @@ CONCLUSIONES: Este es otra de las principales métricas y se ve que el Factor R 
 
 Actualización(2020-07-28): El factor R esta disminuyendo rapidamente, esto es sumamente bueno.
 
-3. Doubling time. Periodo de tiempo en el que el virus se duplicará.
+**3. Doubling time. Periodo de tiempo en el que el virus se duplicará.**
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_6.png)
 
@@ -53,7 +53,7 @@ CONCLUSIONES: Esta métrica mide el número de dias que las fatalidades se dupli
 
 Actualización(2020-07-28): El factor de duplicación en fallecidos pasó de 15 a 17 días, son excelentes noticias.
 
-4. Activos, Recuperados y Fallecidos.
+**4. Activos, Recuperados y Fallecidos.**
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_8.png)
 
@@ -63,7 +63,7 @@ CONCLUSIONES: En este gráfico se puede ver, que a diferencia de los datos de to
 
 Actualización(2020-07-28): Ya casi la cantidad de recuperados alcanza a los contagiados.
 
-5. Confirmados diarios vs Recuperados diarios
+**5. Confirmados diarios vs Recuperados diarios**
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_10.png)
 
@@ -71,7 +71,7 @@ CONCLUSIONES: En este gráfico se puede ver que solo entre el 20 y el 25 de Mayo
 
 Actualización(2020-07-28): El promedio de los últimos 7 días esta aumentando, que excelente.
 
-6. Metodo SIR. Un modelo que grafíca el ciclo de vida del virus.
+**6. Metodo SIR. Un modelo que grafíca el ciclo de vida del virus.**
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_11.png)
 
@@ -85,7 +85,7 @@ Se puede observar que el límite de contagios en Arequipa llegaría en aproximad
 
 Actualización(2020-07-28): Segúún todas las métricas, puede que se llegue al pico de contagiados algunas semans antes de lo esperado.
 
-7. Estudio de días donde se contagian más las personas.
+**7. Estudio de días donde se contagian más las personas.**
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_12.png)
 
@@ -99,4 +99,4 @@ Referencia : https://www.who.int/emergencies/diseases/novel-coronavirus-2019/tec
 
 Tenemos que notar que los datos para esta métrica son extraídos de los datos liberados del MINSA.
 
-8. Diversos estudios aún no finalizados.
+**8. Diversos estudios aún no finalizados.**
