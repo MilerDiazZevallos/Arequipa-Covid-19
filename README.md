@@ -34,7 +34,9 @@ Actualización(2020-07-28): La positividad empezó a estabilizarse.
 **2. Factor Rt. Factor de reproducción del virus.**
 
 Referencias:
+
 https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb
+
 https://medium.com/@rburhum/el-martillazo-y-el-huayno-278716f49938
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_5.png)
@@ -46,7 +48,9 @@ Actualización(2020-07-28): El factor R esta disminuyendo rapidamente, esto es s
 **3. Doubling time. Periodo de tiempo en el que el virus se duplicará.**
 
 Referencias:
+
 https://github.com/COVID-19-AI-Research-Project/AI-Data-Analysis/blob/master/Projects/1/Prediction_Covid_19_WorldWide.ipynb
+
 https://www.npr.org/sections/health-shots/2020/04/10/829167659/are-we-flattening-the-curve-states-keep-watch-on-coronavirus-doubling-times
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_6.png)
