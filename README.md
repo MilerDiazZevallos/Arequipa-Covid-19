@@ -9,7 +9,7 @@ Las métricas utilizadas son:
 
 1. Gráficas generales del estado actual de muestras, contagios, fallecidos y recuperados.
 
-
+![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_1.png)
 
 2. Factor Rt. Factor de reproducción del virus.
 3. Doubling time. Periodo de tiempo en el que el virus se duplicará.
