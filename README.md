@@ -61,7 +61,7 @@ Actualización(2020-07-28): Este factor en fallecidos pasó de 15 a 17 días, so
 
 CONCLUSIONES: En este gráfico se puede ver, que a diferencia de los datos de todo el Perú, el area de los activos son más que los recuperados.
 
-Actualización(2020-07-28): Ya casi la cantidad de recuperados alcanza a los contagiados.
+Actualización(2020-07-28): Ya casi la cantidad de recuperados es el mismo a los contagiados. Esto no significa que todas las personas contagiadas ya están recuperadas, sino que el número de recuperadas acumuladas esta por alcanzar al número de personas contagiadas acumuladas.
 
 **5. Confirmados diarios vs Recuperados diarios**
 
@@ -83,7 +83,7 @@ Mean recovery rate (gamma): Básicamente este valor es 1/<Periodo de incubación
 
 Se puede observar que el límite de contagios en Arequipa llegaría en aproximadamente al día 170 y 180 que se inició la pandemia. Esto sería en un mes aproximadamente.
 
-Actualización(2020-07-28): Segúún todas las métricas, puede que se llegue al pico de contagiados algunas semanas antes de lo esperado.
+Actualización(2020-07-28): Según todas las métricas, puede que se llegue al pico de contagiados algunas semanas antes de lo esperado.
 
 **7. Estudio de días donde se contagian más las personas.**
 
