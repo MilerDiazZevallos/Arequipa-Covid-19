@@ -8,6 +8,9 @@ Dentro del estúdio podemos apreciar diferentes métricas con dos distintos data
 Las métricas utilizadas son:
 
 1. Gráficas generales del estado actual de muestras, contagios, fallecidos y recuperados.
+
+
+
 2. Factor Rt. Factor de reproducción del virus.
 3. Doubling time. Periodo de tiempo en el que el virus se duplicará.
 4. Metodo SIR. Un modelo que grafíca el ciclo de vida del virus.
