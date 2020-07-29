@@ -11,23 +11,23 @@ Las métricas utilizadas son:
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_1.png)
 
-CONCLUSIONES: Se puede observar como el numero de pruebas diarias esta aumentando, lo que en realidad es un factor positivo.
+CONCLUSIONES: Se puede observar como el número de pruebas diarias esta aumentando, lo que en realidad es un factor positivo.
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_2.png)
 
-CONCLUSIONES: Se puede observar como el numero de casos positivos tambien esta aumentando. Haciendo un analisis de regresión, la tendencia es que vaya en aumento.
+CONCLUSIONES: Se puede observar como el número de casos positivos también esta aumentando. Haciendo un análisis de regresión, la tendencia es que vaya en aumento.
 
-Actualización(2020-07-28): La tendencia de los últimos días es que los contagios llegaróón a estabilizarse.
+Actualización(2020-07-28): La tendencia de los últimos días es que los contagios llegaron a estabilizarse.
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_3.png)
 
-CONCLUSIONES: Se puede observar como el numero de fatalidades tambien esta aumentando. Haciendo un analisis de regresión, la tendencia es que vaya en aumento pero la pendiente no es tan elevada.
+CONCLUSIONES: Se puede observar como el número de fatalidades también esta aumentando. Haciendo un análisis de regresión, la tendencia es que vaya en aumento pero la pendiente no es tan elevada.
 
 Actualización(2020-07-28): El número de fallecidos esta disminuyendo diariamente.
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_4.png)
 
-CONCLUSIONES: Este es una de las principales métricas y se ve que la positividad va a aumentar y estará entre un 15 y 20% en las proximas semanas.
+CONCLUSIONES: Este es una de las principales métricas y se ve que la positividad va a aumentar y estará entre un 17 y 23% en las proximas semanas.
 
 Actualización(2020-07-28): La positividad empezó a estabilizarse.
 
@@ -43,15 +43,15 @@ Actualización(2020-07-28): El factor R esta disminuyendo rapidamente, esto es s
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_6.png)
 
-CONCLUSIONES: Esta métrica mide el número de dias que los contagios se duplicarán. Con los datos actuales de Arequipa se puede observar que los contagios se duplican cada 15 días. Mientras este valor aumente las medidas en que se están tomando son las adecuadas, pero el caso es totalmente contrario en Arequipa donde la tendencia es a disminuir.
+CONCLUSIONES: Esta métrica mide el número de días que los contagios se duplicarán. Con los datos actuales de Arequipa se puede observar que los contagios se duplican cada 15 días. Mientras este valor aumente las medidas en que se están tomando son las adecuadas, pero el caso es totalmente contrario en Arequipa donde la tendencia es a disminuir.
 
-Actualización(2020-07-28): Por fin se puede apreciar una tendencia a subir el factor de duplicación, se espera mucho más.
+Actualización(2020-07-28): Por fin se puede apreciar una tendencia a subir este factor, se espera mucho más.
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_7.png)
 
-CONCLUSIONES: Esta métrica mide el número de dias que las fatalidades se duplicarán. Con los datos actuales de Arequipa se puede observar que las fatalidades se duplican también cada 15 días. Caso contrario a los contagios, la tendencia de esta métrica en las fatalidades esta aumentando y ese es un factor positivo.
+CONCLUSIONES: Esta métrica mide el número de días que las fatalidades se duplicarán. Con los datos actuales de Arequipa se puede observar que las fatalidades se duplican también cada 15 días. Caso contrario a los contagios, la tendencia de esta métrica en las fatalidades esta aumentando y ese es un factor positivo.
 
-Actualización(2020-07-28): El factor de duplicación en fallecidos pasó de 15 a 17 días, son excelentes noticias.
+Actualización(2020-07-28): Este factor en fallecidos pasó de 15 a 17 días, son excelentes noticias.
 
 **4. Activos, Recuperados y Fallecidos.**
 
@@ -59,7 +59,7 @@ Actualización(2020-07-28): El factor de duplicación en fallecidos pasó de 15 
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_9.png)
 
-CONCLUSIONES: En este gráfico se puede ver, que a diferencia de los datos de todo el Perú, el area de los activos son mas que los recuperados.
+CONCLUSIONES: En este gráfico se puede ver, que a diferencia de los datos de todo el Perú, el area de los activos son más que los recuperados.
 
 Actualización(2020-07-28): Ya casi la cantidad de recuperados alcanza a los contagiados.
 
@@ -83,7 +83,7 @@ Mean recovery rate (gamma): Básicamente este valor es 1/<Periodo de incubación
 
 Se puede observar que el límite de contagios en Arequipa llegaría en aproximadamente al día 170 y 180 que se inició la pandemia. Esto sería en un mes aproximadamente.
 
-Actualización(2020-07-28): Segúún todas las métricas, puede que se llegue al pico de contagiados algunas semans antes de lo esperado.
+Actualización(2020-07-28): Segúún todas las métricas, puede que se llegue al pico de contagiados algunas semanas antes de lo esperado.
 
 **7. Estudio de días donde se contagian más las personas.**
 
