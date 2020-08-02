@@ -37,7 +37,7 @@ CONCLUSIONES: Este es una de las principales métricas y se ve que la positivida
 
 Actualización(2020-07-28): La positividad empezó a estabilizarse.
 
-Actualización(2020-07-31): La positividad nuevamente tiende a incrementar peor esta vez estara entre un 20 y un 25%. Malas noticias.
+Actualización(2020-07-31): La positividad nuevamente tiende a incrementar pero esta vez estara entre un 20 y un 25%. Malas noticias.
 
 **2. Factor Salud - Hospitalizados y UCI.**
 
