@@ -159,4 +159,18 @@ Actualización(2020-07-31): En el gráfico anterior se puede ver que la mayor ca
 
 Actualización(2020-07-31): Con la finalidad de observar mejor el incremento de contagio dentro de las personas menores a los 25 años, se desarrollo el gŕafico anterior donde se normalizaron los contagios a un 100%. En este gráfico se observa que desde el 2020-06-04 la cantidad de personas contagidas mayores de 60 años aumento considerablemente y se posicionó como el segundo grupo con mas contagios solo por debajo de los adultos. También se puede apreciar claramente que en las 2 últimas semanas la cantidad de personas menores de 25 años (jovenes, adolescentes, niños e infantes) aumentó. Entonces la noticias de que existen más personas menores de 25 años, incluido niños e infantes, que se están contagiando es cierta.
 
-**10. Diversos estudios aún no finalizados.**
+**10. Comparación con datos del SINADEF.**
+
+![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_20.png)
+
+Actualización(2020-08-07): Comparación anual y semanal de los datos del SINADEF en el Perú.
+
+![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_21.png)
+
+Actualización(2020-08-07): Comparación anual y semanal de los datos del SINADEF en el departamento de Arequipa.
+
+![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_22.png)
+
+Actualización(2020-08-07): Comparación anual y semanal entre los datos del SINADEF y los de la GERESA en el departamento de Arequipa.
+
+**11. Diversos estudios aún no finalizados.**
