@@ -154,6 +154,8 @@ Se puede apreciar que los datos del SINADEF soy mucho mayores que los datos expu
 
 El objetivo de este estudio es encontrar las causas o tópicos más probables que acompañan a las defunciones por Coronavirus. Para lo cual primero se aplicaron algunas técnicas de NLP (Natural Language Processing) para encontrár clusters de las causas de defunciones sobre los datos del SINADEF. Para medir solo el impacto del virus de este departamento, solo se tomarón en cuenta datos de este año y solo del departamento de Arequipa.
 
+Referencia: https://www.kaggle.com/maksimeren/covid-19-literature-clustering
+
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_23.png)
 
 Actualización(10-08-2020): En el gráfico anterior se puede apreciar que el cluster 1 (que es el que representa a las defunciones por Coronavirus), se diferencia de los otros clusters, lo que hace posbiel el entrenamiento de un modelo para predecir las defunciones por este virus (este es un estudio a realizarse).
