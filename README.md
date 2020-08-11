@@ -203,7 +203,7 @@ El tópico que representa el cluster 1 esta compuesto por las siguientes 40 pala
 
 La nube de palabra que se puede obtener del topico del cluster 1 es:
 
-![alt text](https://drive.google.com/file/d/1mT00AP58ek6SKbZpsW3bXZjlVO-5W56T/view?usp=sharing)
+![alt text](https://drive.google.com/uc?export=view&id=1mT00AP58ek6SKbZpsW3bXZjlVO-5W56T)
 
 Algunos de los codigos importantes son:
 
