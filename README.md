@@ -1,4 +1,4 @@
-Data Analytics COVID-19 Arequipa, Peru (Actualizado, 14 Agosto 2020)
+Data Analytics COVID-19 Arequipa, Peru (Actualizado, 15 Agosto 2020)
 =============
 
 Este es un análisis de la situación actual que se vive en la Región Arequipa a causa de la pandemia del Coronavirus.
@@ -150,9 +150,9 @@ Actualización(10-08-2020): Este gráfico es una comparación anual y semanal en
 
 Se puede apreciar que los datos del SINADEF soy mucho mayores que los datos expuestos por la GERESA. Esta métrica es muy variable debido a que la aplicación de los filtros puede causar una distorsión en los resultados, pero lo que es cierto es que las defunciones por motivos del Coronavirus que el SINADEF registra son mayores.
 
-**11. Clustering con datos del SINADEF (Datos SINADEF).**
+**11. Factores de Riesgo con datos del SINADEF (Datos SINADEF).**
 
-El objetivo de este estudio es encontrar las causas o tópicos más probables que acompañan a las defunciones por Coronavirus. Para lo cual primero se aplicaron algunas técnicas de NLP (Natural Language Processing) para encontrár clusters de las causas de defunciones sobre los datos del SINADEF. Para medir solo el impacto del virus de este departamento, solo se tomarón en cuenta datos de este año y solo del departamento de Arequipa.
+El objetivo de este estudio es encontrar las causas o factores de riesgo más probables que acompañan a las defunciones por Coronavirus en el departamento de Arequipa. Para lo cual primero se aplicaron algunas técnicas de NLP (Natural Language Processing) para encontrár clusters de las causas de defunciones sobre los datos del SINADEF. Para medir solo el impacto del virus de este departamento, solo se tomarón en cuenta datos de este año y solo del departamento de Arequipa.
 
 Referencia: https://www.kaggle.com/maksimeren/covid-19-literature-clustering
 
@@ -160,7 +160,7 @@ Referencia: https://www.kaggle.com/maksimeren/covid-19-literature-clustering
 
 Actualización(10-08-2020): En el gráfico anterior se puede apreciar que el cluster 1 (que es el que representa a las defunciones por Coronavirus), se diferencia de los otros clusters, lo que hace posbiel el entrenamiento de un modelo para predecir las defunciones por este virus (este es un estudio a realizarse).
 
-El tópico que representa el cluster 1 esta compuesto por las siguientes 40 palabras principales (palabra y frecuencia):
+Los factores de riesgo que representan el cluster 1 esta compuesto por las siguientes 40 palabras principales (palabra y frecuencia):
 
 1. 'respiratoria': 1884, 
 2. 'insuficiencia': 1685, 
@@ -203,11 +203,11 @@ El tópico que representa el cluster 1 esta compuesto por las siguientes 40 pala
 39. 'caso': 95, 
 40. 'infección': 92, 
 
-La nube de palabra que se puede obtener del topico del cluster 1 es:
+La nube de palabras que se puede obtener del topico del cluster 1 es:
 
 ![](https://drive.google.com/uc?export=view&id=1mT00AP58ek6SKbZpsW3bXZjlVO-5W56T)
 
-Algunos de los codigos importantes son:
+Algunos de los codigos importantes son y factores de riesgo mas importantes son:
 
 1. j960: INSUFICIENCIA RESPIRATORIA
 2. u071: COVID-19 IDENTIFICADO
