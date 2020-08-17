@@ -1,4 +1,4 @@
-Data Analytics COVID-19 Arequipa, Peru (Actualizado, 15 Agosto 2020)
+Data Analytics COVID-19 Arequipa, Peru (Actualizado, 16 Agosto 2020)
 =============
 
 Este es un análisis de la situación actual que se vive en la Región Arequipa a causa de la pandemia del Coronavirus.
@@ -135,9 +135,17 @@ Actualización(10-08-2020): Con la finalidad de observar mejor el incremento de 
 
 Actualización(10-08-2020): Este gráfico es una comparación anual y semanal de los datos del SINADEF en el Perú en los años anteriores. Se puede ver que en todo el Perú apartir de la semana 15 de este año las defunciones aumentaron de forma exponencial y llego a un pico en la semana 24. A diferencia de otros años, la influencia del Coronavirus marcará un hito importante en el número de defunciones en el Perú.
 
+![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_24.png)
+
+Actualización(10-08-2020): Este gráfico es una comparación anual y diario de los datos del SINADEF en todos los dpeartamentos del Perú en los años anteriores.
+
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_21.png)
 
 Actualización(10-08-2020): Este gráfico es una comparación anual y semanal de los datos del SINADEF en el departamento de Arequipa. A diferencia del gráfico anterior, en Arequipa el impacto del Coronavirus en las defunciones empezó en la semana 21 y llegó (al parecer) a un pico en la semana 30. Según las tendencias de otras regiones y el decremento de las últimas dos semanas, se puede pensar que ya pasó el pico de defunciones en el departamento de Arequipa.
+
+![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_25.png)
+
+Actualización(10-08-2020): Este gráfico es una comparación anual y diario de los datos del SINADEF en el departamento de Arequipa.
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_22.png)
 
@@ -158,9 +166,9 @@ Referencia: https://www.kaggle.com/maksimeren/covid-19-literature-clustering
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_23.png)
 
-Actualización(10-08-2020): En el gráfico anterior se puede apreciar que el cluster 1 (que es el que representa a las defunciones por Coronavirus), se diferencia de los otros clusters, lo que hace posbiel el entrenamiento de un modelo para predecir las defunciones por este virus (este es un estudio a realizarse).
+Actualización(10-08-2020): En el gráfico anterior se puede apreciar que el cluster 2 (que es el que representa a las defunciones por Coronavirus), se diferencia de los otros clusters, lo que hace posbiel el entrenamiento de un modelo para predecir las defunciones por este virus (este es un estudio a realizarse).
 
-Los factores de riesgo que representan el cluster 1 esta compuesto por las siguientes 40 palabras principales (palabra y frecuencia):
+Los factores de riesgo que representan el cluster 2 esta compuesto por las siguientes 40 palabras principales (palabra y frecuencia):
 
 1. 'respiratoria': 1884, 
 2. 'insuficiencia': 1685, 
