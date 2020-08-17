@@ -137,7 +137,7 @@ Actualización(10-08-2020): Este gráfico es una comparación anual y semanal de
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_24.png)
 
-Actualización(10-08-2020): Este gráfico es una comparación anual y diario de los datos del SINADEF en todos los dpeartamentos del Perú en los años anteriores.
+Actualización(10-08-2020): Este gráfico es una comparación anual y semanal de los datos del SINADEF en todos los departamentos del Perú en los años anteriores.
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_21.png)
 
