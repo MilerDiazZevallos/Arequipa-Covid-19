@@ -7,9 +7,9 @@ Dentro del estudio podemos apreciar diferentes métricas con dos distintos datas
 
 Todos los análisis fueron desarrollados por:
 
-Dr. Yvan Tupac Valdivia
-
 Dr(c). Jenny Copara Zea
+
+Dr. Yvan Tupac Valdivia
 
 MSc. Miler Diaz Zevallos
 
