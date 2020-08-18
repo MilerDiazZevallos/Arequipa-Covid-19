@@ -7,11 +7,11 @@ Dentro del estudio podemos apreciar diferentes métricas con dos distintos datas
 
 Todos los análisis fueron desarrollados por:
 
+MSc. Miler Diaz Zevallos
+
 Dr(c). Jenny Copara Zea
 
 Dr. Yvan Tupac Valdivia
-
-MSc. Miler Diaz Zevallos
 
 Las métricas utilizadas son:
 
