@@ -1,4 +1,4 @@
-Data Analytics COVID-19 Arequipa, Peru (Actualizado, 16 Agosto 2020)
+Data Analytics COVID-19 Arequipa, Peru (Actualizado, 17 Agosto 2020)
 =============
 
 Este es un análisis de la situación actual que se vive en la Región Arequipa a causa de la pandemia del Coronavirus.
