@@ -5,6 +5,12 @@ Este es un análisis de la situación actual que se vive en la Región Arequipa 
 
 Dentro del estudio podemos apreciar diferentes métricas con dos distintos datasets: MINSA (Ministerio de Salud del Perú), GERESA (Gerencia Regional de Salud de Arequipa) y SINADEF (Sistema de Informacion Nacional de Defunciones)
 
+Todos los análisis fueron desarrollados por:
+
+Dr. Yvan Tupac Valdivia
+Dr(c). Jenny Copara Zea
+MSc. Miler Diaz Zevallos
+
 Las métricas utilizadas son:
 
 **1. Gráficas generales del estado actual de cantidad de muestras, cantidad de contagios, cantidad de fallecidos y positividad diaria (Datos GERESA).**
