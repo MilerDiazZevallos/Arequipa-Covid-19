@@ -174,9 +174,9 @@ Referencia: https://www.kaggle.com/maksimeren/covid-19-literature-clustering
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_23.png)
 
-Actualización(10-08-2020): En el gráfico anterior se puede apreciar que el cluster 2 (que es el que representa a las defunciones por Coronavirus), se diferencia de los otros clusters, lo que hace posbiel el entrenamiento de un modelo para predecir las defunciones por este virus (este es un estudio a realizarse).
+Actualización(10-08-2020): En el gráfico anterior se puede apreciar que el cluster 3 (que es el que representa a las defunciones por Coronavirus), se diferencia de los otros clusters, lo que hace posbiel el entrenamiento de un modelo para predecir las defunciones por este virus (este es un estudio a realizarse).
 
-Los factores de riesgo que representan el cluster 2 esta compuesto por las siguientes 40 palabras principales (palabra y frecuencia):
+Los factores de riesgo que representan el cluster 3 esta compuesto por las siguientes 40 palabras principales (palabra y frecuencia):
 
 1. 'respiratoria': 1884, 
 2. 'insuficiencia': 1685, 
@@ -219,7 +219,7 @@ Los factores de riesgo que representan el cluster 2 esta compuesto por las sigui
 39. 'caso': 95, 
 40. 'infección': 92, 
 
-La nube de palabras que se puede obtener del topico del cluster 1 es:
+La nube de palabras que se puede obtener del topico del cluster 3 es:
 
 ![](https://drive.google.com/uc?export=view&id=1mT00AP58ek6SKbZpsW3bXZjlVO-5W56T)
 
