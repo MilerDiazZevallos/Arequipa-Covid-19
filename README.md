@@ -9,9 +9,9 @@ Todos estos análisis vienen siendo desarrollados por:
 
 MSc. Miler Diaz Zevallos
 
-Dr(c). Jenny Copara Zea
+DSc. student Jenny Copara Zea
 
-Dr. Yvan Tupac Valdivia
+DSc. Yvan Tupac Valdivia
 
 Las métricas utilizadas son:
 
