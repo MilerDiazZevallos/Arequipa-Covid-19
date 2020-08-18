@@ -8,7 +8,9 @@ Dentro del estudio podemos apreciar diferentes métricas con dos distintos datas
 Todos los análisis fueron desarrollados por:
 
 Dr. Yvan Tupac Valdivia
+
 Dr(c). Jenny Copara Zea
+
 MSc. Miler Diaz Zevallos
 
 Las métricas utilizadas son:
