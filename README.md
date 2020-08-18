@@ -3,9 +3,9 @@ Data Analytics COVID-19 Arequipa, Peru (Actualizado, 17 Agosto 2020)
 
 Este es un análisis de la situación actual que se vive en la Región Arequipa a causa de la pandemia del Coronavirus.
 
-Dentro del estudio podemos apreciar diferentes métricas con dos distintos datasets: MINSA (Ministerio de Salud del Perú), GERESA (Gerencia Regional de Salud de Arequipa) y SINADEF (Sistema de Informacion Nacional de Defunciones)
+Dentro del estudio podemos apreciar diferentes métricas con tres distintos datasets: MINSA (Ministerio de Salud del Perú), GERESA (Gerencia Regional de Salud de Arequipa) y SINADEF (Sistema de Informacion Nacional de Defunciones)
 
-Todos los análisis fueron desarrollados por:
+Todos estos análisis vienen siendo desarrollados por:
 
 MSc. Miler Diaz Zevallos
 
