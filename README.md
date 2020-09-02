@@ -41,7 +41,7 @@ Actualización(18-08-2020): Esta métrica es bien dinámica, esto debido a que d
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_6.png)
 
-Actualización(18-08-2020): Esta métrica, como la anterior, también es bien dinámica, esto debido a que diariamente las personas entran y salen de las UCIs y algunas de ellas fallecen. A diferencia de la cantidad de hospitalizados, esta métrica estaba disminuyendo desde hace 40 días aproximadamente hasta la semana antepasada, la semana pasada se tuvo un incremento en las camas USI esperemos que esta tendencia no siga.
+Actualización(18-08-2020): Esta métrica, como la anterior, también es bien dinámica, esto debido a que diariamente las personas entran y salen de las UCIs y algunas de ellas fallecen. A diferencia de la cantidad de hospitalizados, esta métrica estaba disminuyendo desde hace 40 días aproximadamente hasta la semana antepasada, la semana pasada se tuvo un incremento en las camas UCI esperemos que esta tendencia no siga.
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_7.png)
 
