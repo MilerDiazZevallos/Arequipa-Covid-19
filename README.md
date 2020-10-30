@@ -65,7 +65,11 @@ https://github.com/COVID-19-AI-Research-Project/AI-Data-Analysis/blob/master/Pro
 
 https://www.npr.org/sections/health-shots/2020/04/10/829167659/are-we-flattening-the-curve-states-keep-watch-on-coronavirus-doubling-times
 
+Doubling time - Casos confirmados:
+
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_10.png)
+
+Doubling time - Fallecidos:
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_11.png)
 
