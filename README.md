@@ -17,17 +17,29 @@ Las métricas utilizadas son:
 
 **1. Gráficas generales del estado actual de cantidad de muestras, cantidad de contagios, cantidad de fallecidos y positividad diaria (Datos GERESA).**
 
+Muestras diarias:
+
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_1.png)
+
+Confirmados diarios:
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_2.png)
 
+Fallecidos diarios:
+
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_3.png)
+
+Positividad diaria:
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_4.png)
 
 **2. Factor Salud - Hospitalizados y UCI (Datos GERESA).**
 
+Hospitalizados:
+
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_5.png)
+
+UCI y Trauma Shock:
 
 ![alt text](https://github.com/MilerDiazZevallos/Arequipa-Covid-19/blob/master/images/image_6.png)
 
